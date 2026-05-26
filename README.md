@@ -19,4 +19,4 @@ This is a simple Python program that allows a user to write a study note, saves 
 Run the Python file in any Python environment:
 
 ```bash
-python practice_project1.py
+python study_notes_app.py
